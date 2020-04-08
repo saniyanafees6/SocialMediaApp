@@ -1,0 +1,10 @@
+svg#Layer_1 {
+  width: 50px;
+}
+body {
+  background-color: rgb(234, 234, 234) !important;
+}
+
+.ui.inverted.top.fixed.menu {
+  background-color: #08488c;
+}
