@@ -132,7 +132,7 @@ class ActivityStore {
         this.submitting = false;
         this.target = '';
       });
-      console.log(error);
+      throw error;
     }
   };
 }
